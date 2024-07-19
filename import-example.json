@@ -1,0 +1,19 @@
+
+{
+    "entries": [{
+        "sys": {
+            "contentType": {
+                "sys": {
+                    "type": "Link",
+                    "linkType": "ContentType",
+                    "id": "<model-id>"
+                }
+            }
+        },
+        "fields": {
+            "<model-field>": {
+                "en-US": "<field-value>"
+            }
+        }
+    }]
+}

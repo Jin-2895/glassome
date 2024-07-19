@@ -1,0 +1,11 @@
+export { Profile } from "./Profile/Profile";
+export { ProfileTabs } from "./ProfileTabs/ProfileTabs";
+export { Favorites } from "./Favorites/Favorites";
+export { OwnContributions } from "./OwnContributions/OwnContributions";
+export { OwnContribution } from "./OwnContribution/OwnContribution";
+export { FavoriteProducts } from "./FavoriteProducts/FavoriteProducts";
+export { FavoriteProduct } from "./FavoriteProduct/FavoriteProduct";
+export { FavoriteProductList } from "./FavoriteProductList/FavoriteProductList";
+export { ConfirmationModal } from "./ConfirmationModal/ConfirmationModal";
+export { MakeUpContent } from "./MakeUpContent/MakeUpContent";
+export { MakeUp } from "./MakeUp/MakeUp";
